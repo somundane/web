@@ -1,5 +1,3 @@
-<!-- link to stargate -->
-<!-- https://stargate.ncc.edu/~syc6134/ITE254Proj2.php -->
 <!--
 Dana Sy-Ching
 ITE 254 GA
